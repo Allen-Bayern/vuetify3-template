@@ -7,6 +7,7 @@ module.exports = {
         node: true,
         es6: true,
         es2023: true,
+        esnext: true,
         // This key must be true, or when using defineProps
         // without import at <script setup></script>,
         // the code will be taken as a mistake

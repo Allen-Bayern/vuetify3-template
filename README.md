@@ -3,8 +3,9 @@
 ## Install as Your project
 
 1. `npx degit https://github.com/My-Project-Template/vuetify3-template.git YOUR_FOLDER_NAME`
-2. If you want to use another package manager like `yarn` or `pnpm`, delete `package-lock.json`
-3. Make sure the node version is `>= 14` and LTS. If you use `pnpm` as your package manager tool, confirm the node version `>= 16`
+2. If you want to use another package manager like `yarn` or `pnpm`, delete `package-lock.json`.
+3. You can update the dependencies with any package manager.
+4. Make sure the node version is `>= 14` and LTS.
 
 ## Commands
 

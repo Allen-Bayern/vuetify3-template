@@ -1,7 +1,4 @@
-/**
- * @description eslint global
- * @type {Record<string, string>}
- */
+/** eslint global */
 const globals = {};
 
 module.exports = {
